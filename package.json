@@ -1,0 +1,15 @@
+{
+  "name": "jsautohomework-6-cypress-2api-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress run --record --key 9a3c9fad-335b-499c-8e32-77af74a98983"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "cypress": "^14.5.3"
+  }
+}
